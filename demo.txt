@@ -1,0 +1,8 @@
+
+>>try to cover class project
+
+>> to fixed image area
+
+>>no spane in two card> use col-1 to 12
+
+3*4=12
